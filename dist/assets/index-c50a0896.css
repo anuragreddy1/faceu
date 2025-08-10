@@ -1,0 +1,1 @@
+:root{--bg-dark:#071026;--card:#0b1226;--accent:#8b5cf6;--muted:#9fb0d8}*{box-sizing:border-box}html,body,#root{height:100%}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial;background:linear-gradient(135deg,#071026 0%,#0b1220 60%);color:#e6eef8}a{color:inherit}button{font-family:inherit}
